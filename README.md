@@ -2,15 +2,15 @@
 
 - implement the gradient Descent variants:
     - Batch
-    - mini-BAtch
-    - Stocastic
+    - mini-Batch
+    - Stochastic
 
 - Implement the Accelerated Gradient Descent methods with adaptive learning rate:
     - Adagrad
     - RMSProp
     - Adam
 
-- Implement the accelerated Gradient Descent methods:
+- Implement the Accelerated Gradient Descent methods:
     - Momentum
     - NAG
 
